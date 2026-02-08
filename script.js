@@ -37,7 +37,7 @@ function flashColors(callback) {
         if (callback) {
             callback();
         }
-    }, 30000); // Flash colors for 2 seconds
+    }, 30000); // Flash colors for 30 seconds
 }
 
 // Function to display the kitty-heart-arrow.gif initially
